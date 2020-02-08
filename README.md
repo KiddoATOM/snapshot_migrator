@@ -48,3 +48,11 @@ If you run this script in an AWS instance you neet to attach this policy to the 
     ]
 }
 ```
+
+## Authors
+
+Module managed by [Santiago Zurletti](https://github.com/KiddoATOM).
+
+## License
+
+Apache 2 Licensed. See LICENSE for full details.
